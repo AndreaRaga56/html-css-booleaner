@@ -1,0 +1,35 @@
+.banner {
+    background-color: lightblue; 
+    background-image: url(../img/pattern.png);
+    height: 180px;
+    width: 100%;
+    background-position: top;
+    position: relative;
+  }
+
+.Bool{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 20%;
+}
+
+h1{
+    font-size: 50px;
+}
+
+h2{
+    color: rgb(174, 174, 174);
+}
+
+h3{
+    color: rgb(174, 174, 174);
+}
+
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.azz{
+    color: rgb(16, 209, 243);
+}
