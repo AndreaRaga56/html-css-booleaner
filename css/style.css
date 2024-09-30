@@ -18,11 +18,7 @@ h1{
     font-size: 50px;
 }
 
-h2{
-    color: rgb(174, 174, 174);
-}
-
-h3{
+.grigio{
     color: rgb(174, 174, 174);
 }
 
@@ -36,4 +32,31 @@ body{
 
 .giall{
     background-color: yellow;
+}
+
+thead{
+    background-color: rgb(35, 61, 194);
+    color: white;
+}
+
+.back-g-azz{
+    background-color: rgb(10, 202, 241);
+}
+
+.monitor{
+    background-image: url(../img/monitor.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 250px;
+    height: 250px;
+    color: white;
+}
+
+.graph{
+    background-image: url(../img/graph.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 250px;
+    height: 250px;
+    color: white;
 }
