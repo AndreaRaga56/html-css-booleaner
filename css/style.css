@@ -10,10 +10,8 @@
 
 /* posiziona in basso a sx */
 .Bool{
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    width: 20%;
+    margin-top: 125px;
+    width: 200px;
 }
 
 /* font timesNR */
@@ -62,7 +60,6 @@ thead{
     background-image: url(../img/monitor.jpg);
     background-size: contain;
     background-repeat: no-repeat;
-    width: 250px;
     height: 250px;
     color: white;
 }
@@ -72,7 +69,6 @@ thead{
     background-image: url(../img/graph.jpg);
     background-size: contain;
     background-repeat: no-repeat;
-    width: 250px;
     height: 250px;
     color: white;
 }
