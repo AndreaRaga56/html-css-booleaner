@@ -1,12 +1,12 @@
 /* banner azzurro con pattern */
 .banner {
-    background-color: lightblue; 
+    background-color: #4ea0ff; 
     background-image: url(../img/pattern.png);
     height: 180px;
     width: 100%;
     background-position: top;
     position: relative;
-  }
+}
 
 /* posiziona in basso a sx */
 .Bool{
@@ -39,6 +39,11 @@ h1{
 /* colore background giallo, evidenziatura gialla */
 .giall{
     background-color: yellow;
+}
+
+/* Togliere i bordi dalla tabella */
+table{
+    border-collapse: collapse;
 }
 
 /* background blu scuro, testo bianco x head tabella */
